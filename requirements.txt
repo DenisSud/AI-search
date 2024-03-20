@@ -1,0 +1,9 @@
+bs4
+yake
+spacy
+flask
+ollama
+chromadb
+langchain
+langchain_community
+googlesearch-python
